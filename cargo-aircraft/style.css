@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('https://wallpaperaccess.com/full/10478638.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.75);
+    padding: 25px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid white;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: orange;
+}
+
+.btn {
+    padding: 7px 15px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    background: yellow;
+}
+
+.btn:hover {
+    background: orange;
+}
